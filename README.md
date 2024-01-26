@@ -1,1 +1,2 @@
-# Interactive-HR-Analytics-and-Attrition-Dashboard-Using-Tableau-
+Link to Dashboard:
+https://public.tableau.com/app/profile/shreyash.thengne/viz/IBMHRAnalyticsandAttrition/GeneralInsights?publish=yes
